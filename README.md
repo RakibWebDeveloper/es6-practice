@@ -32,3 +32,5 @@
   - Class: It is the before the plan of creating any objects which are known as blueprint of any objects which you want to create.
   - Methods: It communicates between the objects.
   - https://medium.com/@luke_smaki/javascript-es6-classes-8a34b0a6720a
+  - shorturl.at/rwzZ3
+  - https://js.zonayed.me/es6/466
