@@ -11,7 +11,18 @@
   - Default function parameters allow named parameters to be initialized with default values if no value or undefined is passed.
 
 ## Template String
-  - Template literals are enclosed by the backtick (` `)  (grave accent) character instead of double or single quotes.
+  - Template literals are enclosed by the backtick (``)  (grave accent) character instead of double or single quotes.
   
 
+## Arrow Function
+  - Arrow functions were introduced in ES6.
+  - Arrow functions allow us to write shorter function syntax.
+  
+
+## Spread Operator
+  - Expanding Arrays
+  - Combining Arrays
+  - Copying Arrays and Objects
+  - https://stackabuse.com/spread-operator-in-javascript/
+  
 
