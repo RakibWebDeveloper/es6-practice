@@ -26,3 +26,9 @@
   - https://stackabuse.com/spread-operator-in-javascript/
   
 
+## Class
+#### There are three concepts in Object-Oriented Programming Object, Class and Methods. The ES6 JavaScript supports the Object-Oriented programming components.
+  - Object: A real-time object entity means the presentation of any entity in real-time.
+  - Class: It is the before the plan of creating any objects which are known as blueprint of any objects which you want to create.
+  - Methods: It communicates between the objects.
+  - https://medium.com/@luke_smaki/javascript-es6-classes-8a34b0a6720a
