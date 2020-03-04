@@ -34,3 +34,8 @@
   - https://medium.com/@luke_smaki/javascript-es6-classes-8a34b0a6720a
   - shorturl.at/rwzZ3
   - https://js.zonayed.me/es6/466
+
+## Null vs undefined
+  - In JavaScript, undefined means a variable has been declared but has not yet been assigned a value.
+  - null is an assignment value. It can be assigned to a variable as a representation of no value.
+  - undefined is a type itself (undefined) while null is an object.
